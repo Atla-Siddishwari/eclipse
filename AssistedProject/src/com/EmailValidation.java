@@ -23,7 +23,7 @@ public class EmailValidation {
 		       emails.add("siddeswari01@gmail.com");
 		       emails.add("siddu04@gmail.com");
 		       emails.add("sidda14@gmail.com");
-		       
+		     
 		       emails.add("lakshmi123@gmail.com");
 		       emails.add("yogi@example.com");
 		       emails.add("siddu03@.example.com");
